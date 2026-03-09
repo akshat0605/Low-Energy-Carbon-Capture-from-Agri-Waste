@@ -101,8 +101,6 @@ Rice Husk → Rice Husk Ash (RHA) → Sodium Silicate → Zeolite (NaA/NaX) → 
 │   └── limewater_test.md   # CO₂ adsorption confirmation
 ├── data/
 │   └── synthesis_parameters.csv
-└── assets/
-    └── lab_photos/         # Experimental photos
 ```
 
 ---
