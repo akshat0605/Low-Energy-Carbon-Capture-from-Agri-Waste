@@ -1,0 +1,29 @@
+parameter,value,unit,notes
+rha_mass,4.75,g,Rice husk ash used as silica precursor
+naoh_solution_volume,145,mL,Excess - acts as reactant and alkaline medium
+sodium_aluminate_volume,145,mL,Excess - aluminium source
+silica_extraction_temp,100,°C,Hydrothermal extraction temperature
+silica_extraction_time,6,hours,Duration in sealed borosilicate bottle
+zeolite_synthesis_temp,100,°C,Hydrothermal synthesis temperature
+zeolite_synthesis_time,8,hours,Duration for NaA/NaX formation
+calcination_temp_min,500,°C,Minimum calcination temperature for RHA
+calcination_temp_max,600,°C,Maximum calcination temperature for RHA
+calcination_time,6,hours,Duration in muffle furnace
+drying_temp_rha,110,°C,RHA pre-drying temperature
+drying_temp_zeolite,80-100,°C,Final zeolite drying temperature
+drying_time_zeolite,6,hours,Final drying duration
+theoretical_yield,9.5,g,RHA mass × 2
+actual_yield,7.3,g,Experimentally obtained dry zeolite mass
+percentage_yield,76.8,%,(7.3/9.5)*100
+co2_adsorption_capacity,3.5,mmol/g,CO2 adsorption per gram zeolite
+co2_capture_per_gram_precursor,0.23,g CO2/g,CO2 captured per gram of precursor at lab scale
+energy_reduction_vs_conventional,50,%,Compared to traditional zeolite synthesis (200-300°C)
+synthesis_temp_conventional_min,200,°C,Conventional zeolite synthesis temperature range min
+synthesis_temp_conventional_max,300,°C,Conventional zeolite synthesis temperature range max
+limewater_test_system_a,delayed milkiness,,System A: Limewater + zeolite
+limewater_test_system_b,rapid milkiness,,System B: Limewater + RHA (control)
+zeolite_type,NaA/NaX,,Geopolymer zeolite phases formed
+rha_silica_content,85-90,%,Approximate amorphous silica content in RHA
+adsorption_efficiency_pilot_est,88,%,Estimated adsorption efficiency from flue gas
+regeneration_cycles,85,cycles/batch,Before 15% degradation
+annual_replacement,12,%,Of adsorbent per year
