@@ -1,4 +1,4 @@
-# Project Summary — Low-Energy Carbon Capture from Agri-Waste
+# Project Summary: Low-Energy Carbon Capture from Agri-Waste
 
 **Team:** ThePowerGrid  
 **Institution:** Indian Institute of Technology, Guwahati  
